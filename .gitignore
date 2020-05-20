@@ -7,6 +7,7 @@
 /aws_service/node_modules
 /client/node_modules
 /node_modules
+/nginx/nginx-1.18.0
 /.history
 /*.pnp
 /*.pnp.js
@@ -40,4 +41,5 @@ yarn-error.log*
 chatbot/config/dev.js
 webapp/config/dev.js
 aws_service/config/dev.js
+
 
