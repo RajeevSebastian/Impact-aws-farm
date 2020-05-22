@@ -82,11 +82,11 @@
 
 ### Built With
 
-* [NodeJS]()
-* [ReactJS]()
-* [NginX]()
-* [AWS EC2, Device Farm , S3 ]()
-* [MongoDB]()
+* [NodeJS](https://nodejs.org/en/)
+* [ReactJS](https://reactjs.org/)
+* [NginX](https://www.nginx.com/)
+* [AWS EC2, Device Farm , S3 ](https://aws.amazon.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 
 <!-- GETTING STARTED -->
@@ -97,6 +97,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 install docker and docker-compose
+[Docker](https://www.docker.com/)
 
 
 ### Installation
