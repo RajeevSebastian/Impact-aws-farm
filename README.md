@@ -38,12 +38,12 @@
     <img src="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/client/public/android-chrome-192x192.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Mobile Test Service Platform (Impact)</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Impact enables users to test their mobile applications on physical phones and tablets. These are not emulators or simulators. This allows testing on both Android and iOS platforms where the application is native, hybrid or web. These devices are physically isolated from one another so these devices do not feed from each other or external devices via Wifi or bluetooth. These devices are dynamically tethered to the host machines that have the device plugged into over USB. This host machine is later torn down after usage such that the next test has no access over previous data whatsoever, fresh images. All the above features make this platform desirable to build testing service which is more intuitive, easy to use and allows for provisioning of devices ahead of time.
     <br />
-    <a href="https://github.com/RajeevSebastian/Impact-aws-farm"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/Final%20Report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/RajeevSebastian/Impact-aws-farm">View Demo</a>
@@ -78,17 +78,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `https://twitter.com/rajeevseb`, `email`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [NodeJS]()
+* [ReactJS]()
+* [NginX]()
+* [AWS EC2, Device Farm , S3 ]()
+* [MongoDB]()
 
 
 <!-- GETTING STARTED -->
@@ -98,11 +96,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+install docker and docker-compose
+
 
 ### Installation
  
@@ -110,10 +105,11 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/RajeevSebastian/Impact-aws-farm.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
+2. cd  into the root folder
+
+3. docker-compose up --build
+
+4.Url to be used is localhost:8080
 
 
 
@@ -156,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@https://twitter.com/rajeevseb](https://twitter.com/https://twitter.com/rajeevseb) - email
+Your Name - [@https://twitter.com/rajeevseb](https://twitter.com/rajeevseb) - email
 
 Project Link: [https://github.com/RajeevSebastian/Impact-aws-farm](https://github.com/RajeevSebastian/Impact-aws-farm)
 
@@ -165,11 +161,7 @@ Project Link: [https://github.com/RajeevSebastian/Impact-aws-farm](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
+* [Dr. Jerry Gao](https://cmpe.sjsu.edu/profile/jerry-gao)
 
 
 
@@ -186,5 +178,5 @@ Project Link: [https://github.com/RajeevSebastian/Impact-aws-farm](https://githu
 [license-shield]: https://img.shields.io/github/license/RajeevSebastian/Impact-aws-farm.svg?style=flat-square
 [license-url]: https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]:https://www.linkedin.com/in/rajeev-sebastian/
 [product-screenshot]: images/screenshot.png
