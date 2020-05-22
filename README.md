@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Rajeev Sebastian](sebastianrajeev16@gmail.com) - email
+Your Name - [RajeevSebastian](https://github.com/RajeevSebastian) - email - sebastianrajeev16@gmail.com
 
 Project Link: [https://github.com/RajeevSebastian/Impact-aws-farm](https://github.com/RajeevSebastian/Impact-aws-farm)
 
