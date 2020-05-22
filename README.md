@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Impact MtaaS][<img src="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/videodemo.gif" width="200" height="200" />]]
+<img src="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/videodemo.gif"/>
 
 
 
