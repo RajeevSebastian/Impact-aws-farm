@@ -46,7 +46,7 @@
     <a href="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/Final%20Report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RajeevSebastian/Impact-aws-farm">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=qjS3Z40TXmg">View Demo</a>
     ·
     <a href="https://github.com/RajeevSebastian/Impact-aws-farm/issues">Report Bug</a>
     ·
@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Impact MtaaS][<img src="https://github.com/RajeevSebastian/Impact-aws-farm/blob/master/videodemo.gif" width="200" height="200" />]]
 
 
 
@@ -109,7 +109,7 @@ git clone https://github.com/RajeevSebastian/Impact-aws-farm.git
 
 3. docker-compose up --build
 
-4.Url to be used is localhost:8080
+4. Url to be used is localhost:8080
 
 
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@https://twitter.com/rajeevseb](https://twitter.com/rajeevseb) - email
+Your Name - [@Rajeev Sebastian](sebastianrajeev16@gmail.com) - email
 
 Project Link: [https://github.com/RajeevSebastian/Impact-aws-farm](https://github.com/RajeevSebastian/Impact-aws-farm)
 
